@@ -1,0 +1,1 @@
+# This repositiry was raise up to study deep learning in the mathematic way in depth
